@@ -1,4 +1,4 @@
-![Hi, I'm Harrsha 👋 I work on things that I find interesting 🚀](https://github.com/harshavardhan-99/harshavardhan-99/wall.jpg)
+Hi, I'm Harrsha 👋 I work on things that I find interesting 🚀
 
 #### Some serious stuff:
 <a href="https://harshavardhan-99.github.io/documents/Harsha_Resume.pdf"><img src="https://img.icons8.com/color/50/000000/resume.png" alt="resume"/></a>
