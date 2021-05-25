@@ -1,14 +1,9 @@
 Hi, I'm Harrsha 👋 I work on things that I find interesting 🚀
 
-#### Some serious stuff:
+#### To reach me:
 <a href="https://harshavardhan-99.github.io/documents/Harsha_Resume.pdf"><img src="https://img.icons8.com/color/50/000000/resume.png" alt="resume"/></a>
 <a href="https://www.linkedin.com/in/harsha-gudupudi-63243416a/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://github.com/harshavardhan-99/harshavardhan-99"><img src="https://img.icons8.com/color/50/000000/web.png" alt="portfolio"/></a>
-
-#### Fun stuff:
-<a href="https://www.linkedin.com/in/harsha-gudupudi-63243416a/"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="instagram"/></a>
-<a href="https://www.facebook.com/GUDIPUDIHARSHA/"><img src="https://img.icons8.com/color/50/000000/facebook.png" alt="facebook"/></a>
-
 <!--
 
 Here are some ideas to get you started:
